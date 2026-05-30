@@ -1,0 +1,6 @@
+{
+  "name": "Macrofy AI",
+  "description": "Premium AI-powered nutrition tracker. Scan meals, analyze packaging, track macros, and get dynamic fitness plans from your elite AI Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
